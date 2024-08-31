@@ -58,6 +58,3 @@ After the user inputs a prompt, the model generates text based on that prompt. T
 
 # Contributors
 Houssein Elmi Hassan
-
-# License
-This project is open-source and free to use under the MIT License.
